@@ -1,0 +1,17 @@
+Criar um algoritmo para trocar uma lâmpada
+
+1. ligar interruptor da lampada.
+2. se acender returnar "lampada ok"
+3. se nao acender
+3.1 buscar cadeira
+3.2 colocar a cadeira embaixo da lampada
+3.3 colocar lampada nova no bolso
+3.4 subir na cadeira
+3.5 desrosquear a lampada queimada
+3.6 guardar no bolso a lampada queimada
+3.7 rosquear a lampada nova
+3.8 descer da cadeira
+3.9 ligar interruptor
+3.10 se acender retornar "ok"
+3.11 se nao "chamar eletricista"
+3.12 fim
